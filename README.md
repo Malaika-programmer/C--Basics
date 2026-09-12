@@ -55,8 +55,6 @@ The roadmap starts from the fundamentals of C++ and gradually moves toward advan
 - Compiler and compilation process
 - Source code, object code, and executable file
 
-# Introduction to C++
-
 ## What is C++?
 
 C++ is a general-purpose, high-performance, compiled programming language used to develop a wide range of software applications.
